@@ -2,6 +2,7 @@
 import React, { Component } from 'react';
 //cc
 class CounterClass extends Component {
+   
     state = {
         count: 0,
     };
